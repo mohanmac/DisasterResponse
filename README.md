@@ -2,19 +2,7 @@
 
 
 
-## Table of Contents
-1. [Description](#description)
-2. [Getting Started](#getting_started)
-	1. [Dependencies](#dependencies)
-	2. [Installing](#installing)
-	3. [Executing Program](#executing)
-	4. [Additional Material](#material)
-3. [Authors](#authors)
-4. [License](#license)
-5. [Acknowledgement](#acknowledgement)
-6. [Screenshots](#screenshots)
 
-<a name="descripton"></a>
 ## Description
 
 This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight.
@@ -34,17 +22,4 @@ The Project is divided in the following Sections:
 * [Mac Mohan (https://github.com/mohanmac)
 
 
-<a name="screenshots"></a>
-## Screenshots
 
-1. This is an example of a message you can type to test Machine Learning model performance
-
-![Sample Input](screenshots/sample_input.png)
-
-2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
-
-![Sample Output](screenshots/sample_output.png)
-
-3. The main page shows some graphs about training dataset, provided by Figure Eight
-
-![Main Page](screenshots/main_page.png)
